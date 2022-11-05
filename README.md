@@ -1,3 +1,3 @@
 DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの研修課題です。
-
+submission-1に保存しています
 html/cssファイルのため、PCのブラウザで実行できます。
